@@ -1,0 +1,16 @@
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: actions/setup-node@master
+      with:
+        node-version: 18
+        cache-dependency-path: yarn.lock
+    - run: yarn install
+    - run: yarn build
+    - uses: actions/upload-artifact@v3
+      with:
+        name: web
+        path: dist/
