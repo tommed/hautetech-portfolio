@@ -1,3 +1,31 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Prata&family=Yeseva+One&display=swap');
+
+html {
+  @apply dark:[color-scheme:dark]
+}
+
+h1 {
+  font-family: 'Yeseva One', cursive;
+}
+
+header nav li,
+h2, h3, h4 {
+  font-family: 'Prata', serif;
+}
+
+a {
+  @apply text-pink-500;
+}
+
+a:hover {
+  @apply text-pink-800;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.8em;
+}
