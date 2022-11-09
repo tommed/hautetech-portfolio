@@ -23,7 +23,7 @@
       if you believe any of the following services would be useful to your business&hellip;</p>
     </div>
 
-    <div class="my-4 p-6 flex flex-col bg-black text-white">
+    <div class="my-6 p-6 flex flex-col bg-black text-white shadow-md">
       <h3 class="text-xl font-bold mt-3">Event Tickets <Web3Icon/></h3>
       <p>Provide secure tickets for your events.</p>
       <p>These tickets are non-transferable and impossible to fake.
@@ -32,7 +32,7 @@
       </p>
     </div>
 
-    <div class="my-4 p-6 flex flex-col bg-white text-black">
+    <div class="my-6 p-6 flex flex-col bg-white text-black shadow-md">
       <h3 class="text-xl font-bold mt-3">Mementos <Web3Icon/></h3>
       <p>Once an event is over, you can gift those who took the time to attend
         with a &rsquo;memento&lsquo;.
@@ -42,7 +42,7 @@
         only those who attended an event to subsequent events.</p>
     </div>
 
-    <div class="my-4 p-6 flex flex-col bg-black text-white">
+    <div class="my-6 p-6 flex flex-col bg-black text-white shadow-md">
       <h3 class="text-xl font-bold mt-3">Loyalty system <Web3Icon/></h3>
       <p>Loyalty schemes are expensive and expose your brand to fraud (the damage to
         reputation could be catastrophic). But rewarding loyal customers is an essential
@@ -53,7 +53,7 @@
       </p>
     </div>
 
-    <div class="my-4 p-6 flex flex-col bg-white text-black">
+    <div class="my-6 p-6 flex flex-col bg-white text-black shadow-md">
       <h3 class="text-xl font-bold mt-3">Proof of ownership <Web3Icon/></h3>
       <p>Combat fake garments which ruin your reputation and allow others to profiteer from your brand.
         With each item sold (or alternatively, each <em>high-value</em> good sold) the owner will receive
@@ -63,7 +63,7 @@
       </p>
     </div>
 
-    <div class="my-4 p-6 flex flex-col bg-black text-white">
+    <div class="my-6 p-6 flex flex-col bg-black text-white shadow-md">
       <h3 class="text-xl font-bold mt-3">A.I. for everyone <AiIcon/></h3>
       <p>Apply A.I. to your brand without needing to be a data science boffin.
         Our A.I. services make use of industry's best Deep Learning algorithms, wrapped
@@ -74,7 +74,7 @@
       <p>A.I. helps you become more strategic and reach the people who <em>want to buy</em> your products!</p>
     </div>
 
-    <div class="my-4 p-6 flex flex-col bg-white text-black">
+    <div class="my-6 p-6 flex flex-col bg-white text-black shadow-md">
       <h3 class="text-xl font-bold mt-3">Voting system <Web3Icon/></h3>
       <p>Gaining business insight from your customers is the new standard.
         It allows you to anticipate what your next move should be without needing a time machine.
@@ -88,7 +88,7 @@
       </p>
     </div>
 
-    <div class="my-4 p-6 flex flex-col bg-black text-white">
+    <div class="my-6 p-6 flex flex-col bg-black text-white shadow-md">
       <h3 class="text-xl font-bold mt-3">Renting goods <Web3Icon/></h3>
       <p>Use our rental system is based on a new Blockchain standard <strong>ERC-4907</strong>.
         In laymen's terms, this means it's un-hackable and fully traceable. providing you with
@@ -97,7 +97,7 @@
       </p>
     </div>
 
-    <div class="my-4 p-6 flex flex-col bg-white text-black">
+    <div class="my-6 p-6 flex flex-col bg-white text-black shadow-md">
       <h3 class="text-xl font-bold mt-3">Secure website hosting <Web3Icon/></h3>
       <p>This one is difficult to describe without getting technical, so we'll just
         say we can provide secure web hosting services which scale no matter how many

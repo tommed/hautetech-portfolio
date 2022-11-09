@@ -4,7 +4,7 @@
       <icon class="text-teal-500" icon="shirt"/>
       Haute Tech.
     </h1>
-    <nav class="my-4 border-y-2 border-teal-300 text-gray-600 dark:text-teal-200 dark:border-teal-800 py-4 animate__animated animate__fadeIn">
+    <nav class="my-4 border-y-2 border-gray-100 text-gray-600 dark:text-teal-200 dark:border-gray-800 py-4 animate__animated animate__fadeIn">
       <ul class="list-none uppercase">
         <li class="inline mx-4"><router-link to="/">Home</router-link></li>
         <li class="inline mx-4"><router-link to="/about">About</router-link></li>
@@ -14,4 +14,12 @@
     </nav>
   </header>
   <router-view/>
+  <hr>
+  <footer>
+    <small>
+      Copyright 2022 Haute Tech - all rights reserved.<br/>
+      Open source fonts <a href="/res/fonts/YesevaOne-OFL.txt">Yeseva One</a>
+      and <a href="/res/fonts/PrataOFL.txt">Prata</a> used.
+    </small>
+  </footer>
 </template>

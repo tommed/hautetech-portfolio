@@ -2,10 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Prata&family=Yeseva+One&display=swap');
-
 html {
   @apply dark:[color-scheme:dark]
+}
+
+@font-face {
+  font-family: 'Yeseva One';
+  src: url('@/assets/YesevaOne-Regular.ttf')  format('truetype');
+}
+
+@font-face {
+  font-family: 'Prata';
+  src: url('@/assets/Prata-Regular.ttf')  format('truetype');
 }
 
 h1 {
